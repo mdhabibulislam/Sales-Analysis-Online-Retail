@@ -37,11 +37,13 @@ Source: [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/lakshm
 *(Update these findings after your analysis.)*
 
 ## Folder Structure
+
 Sales_Analysis/
-├── data/ # Raw dataset (online_retail.csv)
-├── notebooks/ # Python notebooks
-├── visualizations/ # Charts and plots
+├── Data/           # Raw dataset (online_retail.csv)
+├── Notebooks/      # Python notebooks
+├── Visualizations/ # Charts and plots
 └── README.md
+
 
 
 ## How to Run
