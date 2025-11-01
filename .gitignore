@@ -1,0 +1,12 @@
+# Ignore data folder if you don't want to push large datasets
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
