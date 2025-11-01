@@ -81,7 +81,3 @@ Sales_Analysis/
 2. Open `sales_analysis.ipynb` in Jupyter Notebook.
 3. Run the cells to see the analysis and visualizations.
 
-## Next Steps / Improvements
-- Add predictive modeling for future sales.  
-- Create an interactive dashboard with Power BI or Tableau.  
-- Include customer segmentation for marketing insights.
